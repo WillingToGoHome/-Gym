@@ -43,12 +43,12 @@ delvelop 브랜치는 다음에 배포할 것을 개발하는 브랜치이다.
 ✅ 가지가 뻗어나오는 곳 : develop
 
 </aside>
-
+<br>
 <aside>
 ✅ 뻗어나갔던 가지가 다시 합쳐지는 곳 : develop
 
 </aside>
-
+<br>
 <aside>
 ✅ 새로운 기능을 추가할 때 사용한다.
 
