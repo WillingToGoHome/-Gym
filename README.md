@@ -109,8 +109,6 @@ delvelop 브랜치는 다음에 배포할 것을 개발하는 브랜치이다.
 
 - Require a pull request before merging Require approvals(2): 2 명 이상의 승인이 있어야
                                                                                                 병합 가능
-- Require status checks to pass before merging
-  
 - check your Files changed and right check commit status above(develop from [Branch][Page][내용]) before merging require approval : 수정한 파일들을 확인하고 커밋상태 확인
 
 ### ☣위 규칙은 프로젝트를 진행함에 있어서 일부 수정될 수 있다.
