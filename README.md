@@ -74,8 +74,8 @@ delvelop 브랜치는 다음에 배포할 것을 개발하는 브랜치이다.
 
 ![5](https://github.com/WillingToGoHome/GymGa/assets/157683242/10166f7a-0081-4731-866a-0da72ede36cd)
 
-- Add a title 작성 : [Branch][Page][내용]
-                            *ex)[Feature][Header][Navbar 로그인 기능 구현]*
+- Add a title 작성 : [Branch][Domain][내용]#IssueNumber
+                            *ex)[Feature][Header][Navbar 로그인 기능 구현]#68*
 - Assignees : 본인 계정 등록
 - Labels : 해당 라벨 등록
 - Projects : 프로젝트는 추후에 프로젝트 관련 Repository 생성 후 등록
