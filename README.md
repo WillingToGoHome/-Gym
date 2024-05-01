@@ -118,5 +118,48 @@ Dependencies :
 # 유사 프로그램 분석
 ![image](https://github.com/WillingToGoHome/GymGa/assets/157683550/a3cc0938-89b4-432d-8e1f-10a936e02632)
 
+# 업무 분석
+![image](https://github.com/WillingToGoHome/GymGa/assets/157683550/f0f47d7b-a839-45ed-bd6e-1b0f54f4eadb)
+
+# 요구 사항 명세
+![image](https://github.com/WillingToGoHome/GymGa/assets/157683550/5bebfe1b-3090-4cec-9293-6940bc9f0b37)
+![image](https://github.com/WillingToGoHome/GymGa/assets/157683550/28f5bc7c-fd1d-49a6-9431-777e6220f668)
+![image](https://github.com/WillingToGoHome/GymGa/assets/157683550/5a5c0994-f30e-4178-b2bb-5e7ec042ed29)
+![image](https://github.com/WillingToGoHome/GymGa/assets/157683550/484a9c2a-f079-43e1-8a9b-89e9744e6150)
+![image](https://github.com/WillingToGoHome/GymGa/assets/157683550/75ed1acb-0494-4eb0-8459-9c7757a4daec)
+
+# 유스케이스 다이어그램
+![image](https://github.com/WillingToGoHome/GymGa/assets/157683550/b8687c7d-fdc6-4fbf-9684-4a52cab0303d)
+
+# 정책 정의서
+![image](https://github.com/WillingToGoHome/GymGa/assets/157683550/51cc41fa-1e91-464a-b67c-76d2d23e20c6)
+![image](https://github.com/WillingToGoHome/GymGa/assets/157683550/39d834b3-948a-4867-b909-350beb897333)
+![image](https://github.com/WillingToGoHome/GymGa/assets/157683550/8866117b-ff62-4ec5-9da3-e45f821434e3)
+
+# 데이터 베이스 모델 항목
+![image](https://github.com/WillingToGoHome/GymGa/assets/157683550/a960ea87-002e-43f6-986b-5eaec806bf44)
+![image](https://github.com/WillingToGoHome/GymGa/assets/157683550/f2c51ab8-1479-468e-b814-0baef8c490ed)
+![image](https://github.com/WillingToGoHome/GymGa/assets/157683550/e5aa7df6-19f8-44f0-8af1-97786e0486f9)
+![image](https://github.com/WillingToGoHome/GymGa/assets/157683550/30bc6f00-cf8a-462c-bf6d-0e7053915144)
+
+# 논리 데이터 베이스 모델 (ERD)
+![image](https://github.com/WillingToGoHome/GymGa/assets/157683550/07a9b38f-e10f-4d76-a68a-82250fa60e66)
+
+# 물리 데이터 베이스 모델
+![image](https://github.com/WillingToGoHome/GymGa/assets/157683550/295d8a0d-3afa-4e32-9fdd-a2b13aa30248)
+
+# 전체 업무 흐름도
+![image](https://github.com/WillingToGoHome/GymGa/assets/157683550/12ad0926-dd38-4d9c-a8e9-47e9d5a9013c)
+
+
+
+
+
+
+
+
+
+
+
 
 
