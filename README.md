@@ -131,6 +131,10 @@ Dependencies :
 # 유스케이스 다이어그램
 ![image](https://github.com/WillingToGoHome/GymGa/assets/157683550/b8687c7d-fdc6-4fbf-9684-4a52cab0303d)
 
+# 메뉴 구조도
+![image](https://github.com/WillingToGoHome/GymGa/assets/157683550/2270485f-e74d-42b9-a6ab-5fb1f0ac0e9c)
+
+
 # 정책 정의서
 ![image](https://github.com/WillingToGoHome/GymGa/assets/157683550/51cc41fa-1e91-464a-b67c-76d2d23e20c6)
 ![image](https://github.com/WillingToGoHome/GymGa/assets/157683550/39d834b3-948a-4867-b909-350beb897333)
@@ -150,6 +154,7 @@ Dependencies :
 
 # 전체 업무 흐름도
 ![image](https://github.com/WillingToGoHome/GymGa/assets/157683550/12ad0926-dd38-4d9c-a8e9-47e9d5a9013c)
+
 
 
 
