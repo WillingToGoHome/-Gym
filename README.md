@@ -112,3 +112,11 @@ Dependencies :
 ```markdown
 2024-04-19 ver.0 작성
 ```
+# 시장 조사
+![image](https://github.com/WillingToGoHome/GymGa/assets/157683550/3e5bb9d0-e48a-46e6-bef7-a799835e7cde)
+
+# 유사 프로그램 분석
+![image](https://github.com/WillingToGoHome/GymGa/assets/157683550/a3cc0938-89b4-432d-8e1f-10a936e02632)
+
+
+
